@@ -45,7 +45,6 @@ function createCalendar(calDate) {
 }
 
 // Function to write the calendar caption
-
 function calCaption(calDate) {
     var monthName = ["January", "Feburary", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
